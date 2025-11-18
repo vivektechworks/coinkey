@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Introduction to Crypto",
+    "slug": "intro",
+    "file": "/articles/intro.md",
+    "description": "Understanding the basics of cryptocurrency."
+  },
+  {
+    "title": "Getting Started With Crypto",
+    "slug": "getting-started",
+    "file": "/articles/getting-started.md",
+    "description": "Learn how to safely begin your crypto journey."
+  },
+  {
+    "title": "Crypto Scams to Avoid",
+    "slug": "scams",
+    "file": "/articles/scams.md",
+    "description": "Stay safe by learning common scam patterns."
+  }
+]
